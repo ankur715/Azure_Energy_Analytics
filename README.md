@@ -1,4 +1,4 @@
-# Azure_DE2 — NYPA Energy Data Platform
+# Azure— NYPA Energy Data Platform
 
 Medallion-architecture pipeline on Azure, built around three real **New York Power
 Authority (NYPA)** open datasets pulled through three different ingestion patterns —
